@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980273537964",
+    "project_id": "mariaddaapp",
+    "storage_bucket": "mariaddaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980273537964:android:e43abeab9feb07f3555009",
+        "android_client_info": {
+          "package_name": "com.example.mariadda_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZD5t0Kf_QHEi6WKEBnCn7RtpkkFBbNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
